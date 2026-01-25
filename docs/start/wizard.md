@@ -259,7 +259,7 @@ clawdbot onboard --non-interactive \
   --gateway-bind loopback
 ```
 
-x402 example (interactive):
+Daydreams Router (x402) example (interactive):
 
 ```bash
 clawdbot onboard \
